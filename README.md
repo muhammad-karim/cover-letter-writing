@@ -64,3 +64,7 @@ The skill refers to "the candidate's master CV" and the candidate's voice. Befor
 - Hooks must be true. Check anything you quote about the employer before you send the letter.
 - Always rewrite the hook and the close in your own words.
 - Export to PDF and check it is one page.
+
+## Licence
+
+MIT. Free to use and adapt.
