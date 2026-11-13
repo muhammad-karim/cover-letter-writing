@@ -1,7 +1,26 @@
 ---
 name: cover-letter-writing
-description: Write and optimise one-page cover letters in the candidate's own voice, tailored to a job advert. Use when drafting or reviewing a cover letter or application supporting statement.
+description: Write or review a one-page cover letter tailored to a job advert. It explains why the candidate wants the role and how they fit it, using evidence from their master CV in their own voice. Use whenever someone asks for a cover letter, a covering letter, a supporting statement or help with 'why this role' for an application, even if they don't use the term 'cover letter'.
 ---
+
+<!--
+  HOW THIS SKILL WORKS (a note for people reading this file)
+
+  This file tells Claude how to write a one-page cover letter for one job.
+  It works in three steps:
+
+    1. UNDERSTAND - Claude reads the advert and the master CV, picks the two or
+                    three priorities that matter most to the employer, and
+                    finds the strongest honest evidence for each.
+    2. WRITE      - Claude drafts four short paragraphs: a hook about the
+                    employer, evidence for each priority with a number, and a
+                    close. The wording follows the candidate's own voice.
+    3. CHECK      - Claude checks that the letter fits one A4 page, that every
+                    figure appears in the master CV, and that nothing is
+                    invented or stretched.
+
+  The letter stands alone. It doesn't assume the reader has seen the CV.
+-->
 
 # Cover letters
 
